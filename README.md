@@ -1,2 +1,0 @@
-# bmmReactTrials
-Created with CodeSandbox
